@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1744079465033,
-  "index": "/ProjetoAdega/pdv/index.html",
+  "timestamp": 1744080097313,
+  "index": "/pdv-deploy/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ProjetoAdega/pdv/chunk-5BNYNW3Q.js",
-        "/ProjetoAdega/pdv/chunk-O547RTLN.js",
-        "/ProjetoAdega/pdv/favicon.ico",
-        "/ProjetoAdega/pdv/index.html",
-        "/ProjetoAdega/pdv/main-EQM2WK5X.js",
-        "/ProjetoAdega/pdv/manifest.webmanifest",
-        "/ProjetoAdega/pdv/polyfills-FFHMD2TL.js",
-        "/ProjetoAdega/pdv/styles-H7T4E23O.css"
+        "/pdv-deploy/chunk-5BNYNW3Q.js",
+        "/pdv-deploy/chunk-O547RTLN.js",
+        "/pdv-deploy/favicon.ico",
+        "/pdv-deploy/index.html",
+        "/pdv-deploy/main-GCDQF466.js",
+        "/pdv-deploy/manifest.webmanifest",
+        "/pdv-deploy/polyfills-FFHMD2TL.js",
+        "/pdv-deploy/styles-H7T4E23O.css"
       ],
       "patterns": []
     },
@@ -30,36 +30,36 @@
         "ignoreVary": true
       },
       "urls": [
-        "/ProjetoAdega/pdv/icons/icon-128x128.png",
-        "/ProjetoAdega/pdv/icons/icon-144x144.png",
-        "/ProjetoAdega/pdv/icons/icon-152x152.png",
-        "/ProjetoAdega/pdv/icons/icon-192x192.png",
-        "/ProjetoAdega/pdv/icons/icon-384x384.png",
-        "/ProjetoAdega/pdv/icons/icon-512x512.png",
-        "/ProjetoAdega/pdv/icons/icon-72x72.png",
-        "/ProjetoAdega/pdv/icons/icon-96x96.png"
+        "/pdv-deploy/icons/icon-128x128.png",
+        "/pdv-deploy/icons/icon-144x144.png",
+        "/pdv-deploy/icons/icon-152x152.png",
+        "/pdv-deploy/icons/icon-192x192.png",
+        "/pdv-deploy/icons/icon-384x384.png",
+        "/pdv-deploy/icons/icon-512x512.png",
+        "/pdv-deploy/icons/icon-72x72.png",
+        "/pdv-deploy/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/ProjetoAdega/pdv/chunk-5BNYNW3Q.js": "3548107e62ef9d1e898d10f7f406de3a15748319",
-    "/ProjetoAdega/pdv/chunk-O547RTLN.js": "40551d11670d29a1545e9d56027d996ba21b1c43",
-    "/ProjetoAdega/pdv/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/ProjetoAdega/pdv/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/ProjetoAdega/pdv/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/ProjetoAdega/pdv/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/ProjetoAdega/pdv/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/ProjetoAdega/pdv/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/ProjetoAdega/pdv/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/ProjetoAdega/pdv/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/ProjetoAdega/pdv/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/ProjetoAdega/pdv/index.html": "87b9da7380950206ecacfeb81108e0b3dcad4e07",
-    "/ProjetoAdega/pdv/main-EQM2WK5X.js": "3cf845d9febed3e45c354bd924cf2a60fb3bc241",
-    "/ProjetoAdega/pdv/manifest.webmanifest": "6c579ff1f4c5415d767c90c8ad53eacf153cff91",
-    "/ProjetoAdega/pdv/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
-    "/ProjetoAdega/pdv/styles-H7T4E23O.css": "496b3e688e7cb19c7e4ee14fdc5e2f06bed15586"
+    "/pdv-deploy/chunk-5BNYNW3Q.js": "3548107e62ef9d1e898d10f7f406de3a15748319",
+    "/pdv-deploy/chunk-O547RTLN.js": "40551d11670d29a1545e9d56027d996ba21b1c43",
+    "/pdv-deploy/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/pdv-deploy/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/pdv-deploy/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/pdv-deploy/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/pdv-deploy/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/pdv-deploy/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/pdv-deploy/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/pdv-deploy/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/pdv-deploy/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/pdv-deploy/index.html": "06584b98fb906c2050635676d9c26dc071b561dc",
+    "/pdv-deploy/main-GCDQF466.js": "4097a30592831f0ceac124db699d95a63500e1b4",
+    "/pdv-deploy/manifest.webmanifest": "6c579ff1f4c5415d767c90c8ad53eacf153cff91",
+    "/pdv-deploy/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/pdv-deploy/styles-H7T4E23O.css": "496b3e688e7cb19c7e4ee14fdc5e2f06bed15586"
   },
   "navigationUrls": [
     {
